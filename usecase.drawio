@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T12:15:05.431Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="3EEDBVMhIkvZecAQzcrN" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T12:15:18.525Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="Eu6NvHdlVkKfbezrbpMb" version="16.2.7" type="github">
   <diagram id="6NPVxZc6Zph17vFIf_1I" name="Page-1">
     <mxGraphModel dx="1123" dy="706" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uz0JHmNVNITLveVFGuAH-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="220" width="644" height="644" as="geometry" />
+          <mxGeometry x="220" y="20" width="600" height="600" as="geometry" />
         </mxCell>
         <mxCell id="Uz0JHmNVNITLveVFGuAH-1" value="Utilisateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="30" height="60" as="geometry" />
