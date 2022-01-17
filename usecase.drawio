@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-01-17T11:48:07.406Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="0VJCOTMMWamh-R8r4uxM" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-17T11:51:32.293Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.1 Safari/605.1.15" etag="m1KtVbtc_eYZLvUcukIf" version="16.2.7" type="github">
   <diagram id="6NPVxZc6Zph17vFIf_1I" name="Page-1">
     <mxGraphModel dx="925" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Uz0JHmNVNITLveVFGuAH-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="230" y="92.5" width="517.5" height="517.5" as="geometry" />
+          <mxGeometry x="230" y="92.5" width="557.5" height="557.5" as="geometry" />
         </mxCell>
         <mxCell id="Uz0JHmNVNITLveVFGuAH-1" value="Utilisateur" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="140" y="260" width="30" height="60" as="geometry" />
@@ -87,6 +87,25 @@
           <mxGeometry width="160" relative="1" as="geometry">
             <mxPoint x="170" y="289.40999999999997" as="sourcePoint" />
             <mxPoint x="330" y="289.40999999999997" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uz0JHmNVNITLveVFGuAH-25" value="genre" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="240" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0JHmNVNITLveVFGuAH-26" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;exitX=0.074;exitY=0.776;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Uz0JHmNVNITLveVFGuAH-3">
+          <mxGeometry x="0.1276" y="-24" width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="610" as="sourcePoint" />
+            <mxPoint x="310" y="570" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Uz0JHmNVNITLveVFGuAH-27" value="Afficher les graphs" style="shape=ellipse;html=1;strokeWidth=3;fontStyle=1;whiteSpace=wrap;align=center;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="580" y="170" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Uz0JHmNVNITLveVFGuAH-28" value="&amp;lt;&amp;lt;extend&amp;gt;&amp;gt;" style="edgeStyle=none;html=1;startArrow=open;endArrow=none;startSize=12;verticalAlign=bottom;dashed=1;labelBackgroundColor=none;rounded=0;" edge="1" parent="1" source="Uz0JHmNVNITLveVFGuAH-6">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="420" y="200" as="sourcePoint" />
+            <mxPoint x="580" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
